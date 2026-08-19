@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@main/backgrounds/bg-dark-aurora.svg](https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@main/backgrounds/bg-custom.png)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@main/backgrounds/bg-custom.png">
   <img src="https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@main/backgrounds/bg-custom.png" width="100%" alt="background">
 </picture>
 
