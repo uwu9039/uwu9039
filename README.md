@@ -76,7 +76,7 @@
 
 <p align="center">
   <!-- 换主题：改 theme= 参数（moebooru/asoul/bilibili/capoo/gelbooru/rule34/snow），计数不丢 -->
-  <img src="https://count.getloli.com/get/@uwu9039?theme=moebooru" alt="Moe Counter" />
+  <img src="https://count.getloli.com/get/@uwu9039?theme=capoo" alt="Moe Counter" />
 </p>
 
 <p align="center">🌟 感谢你的来访</p>
