@@ -1,9 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════
-     背景设置：想换背景只改这一个地方 👇
-       - src="..."      → 浅色主题时显示的背景
-       - srcset="..."   → 深色主题时显示的背景（可填同一张）
-     背景素材都在 backgrounds/ 文件夹（jsDelivr 加速）
-     ═══════════════════════════════════════════════════════════ -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@main/backgrounds/bg-dark-aurora.svg](https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@main/backgrounds/bg-custom.png)">
   <img src="https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@main/backgrounds/bg-custom.png" width="100%" alt="background">
@@ -39,8 +33,7 @@
 
 - 🔭 正在打磨 [dsh-unarchive](https://github.com/uwu9039/dsh-unarchive) —— 恢复归档会话的 DeepSeek Harness 插件
 - 🌱 正在学习 TypeScript 插件开发与 DeepSeek Harness 生态
-- 💬 欢迎交流 DSH 插件开发 / API Key 安全防护
-- ⚡ Fun fact：为了捞回手滑归档的会话，花了几百万 token 之后，干脆写了个插件
+- 💬 欢迎交流 DSH 插件开发
 
 ---
 
@@ -52,7 +45,7 @@
 
 ---
 
-### 📈 Stats（深浅色自动适配 · 国内可直连）
+### 📈 Stats
 
 <p align="center">
   <picture>
@@ -69,4 +62,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=uwu9039.uwu9039" alt="visitors" />
 </p>
 
-<p align="center">🌟 感谢你的来访</p>
+<p align="center">🌟 真的感谢你的来访...</p>
