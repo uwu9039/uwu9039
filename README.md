@@ -65,8 +65,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uwu9039/uwu9039/output/snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/uwu9039/uwu9039/output/snake.svg" width="100%" alt="snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@output/snake-dark.svg">
+    <img src="https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@output/snake.svg" width="100%" alt="snake" />
   </picture>
 </p>
 
