@@ -33,6 +33,7 @@
 - 数字媒体技术专业准大一...
 - 🔭 正在打磨 [dsh-unarchive](https://github.com/uwu9039/dsh-unarchive) —— 恢复归档会话的 DeepSeek Harness 插件
 - 💬 欢迎交流 DSH 插件开发
+- 求求了来点人吧（）
 
 ---
 
