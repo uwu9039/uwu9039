@@ -52,16 +52,12 @@
 
 ---
 
-### 📈 Stats（深浅色自动适配）
+### 📈 Stats（深浅色自动适配 · 国内可直连）
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=uwu9039&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=uwu9039&show_icons=true&count_private=true&hide_border=true&title_color=111111&icon_color=111111&text_color=555555&bg_color=ffffff" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uwu9039&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwu9039&layout=compact&hide_border=true&title_color=111111&text_color=555555&bg_color=ffffff" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.justsong.cn/api/github?username=uwu9039&lang=zh-CN&theme=dark">
+    <img src="https://stats.justsong.cn/api/github?username=uwu9039&lang=zh-CN" alt="GitHub Stats" />
   </picture>
 </p>
 
