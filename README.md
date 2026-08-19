@@ -32,7 +32,6 @@
 ### ✨ About Me
 
 - 🔭 正在打磨 [dsh-unarchive](https://github.com/uwu9039/dsh-unarchive) —— 恢复归档会话的 DeepSeek Harness 插件
-- 🌱 正在学习 TypeScript 插件开发与 DeepSeek Harness 生态
 - 💬 欢迎交流 DSH 插件开发
 
 ---
@@ -62,4 +61,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=uwu9039.uwu9039" alt="visitors" />
 </p>
 
-<p align="center">🌟 真的感谢你的来访...</p>
+<p align="center">真的感谢你的来访口牙...</p>
