@@ -72,10 +72,11 @@
 
 ---
 
-### 👀 访客统计
+### 👀 访客统计（Moe-Counter 萌计数器）
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=uwu9039.uwu9039" alt="visitors" />
+  <!-- 换主题：改 theme= 参数（moebooru/asoul/bilibili/capoo/gelbooru/rule34/snow），计数不丢 -->
+  <img src="https://count.getloli.com/get/@uwu9039?theme=moebooru" alt="Moe Counter" />
 </p>
 
 <p align="center">🌟 感谢你的来访</p>
