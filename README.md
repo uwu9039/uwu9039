@@ -1,5 +1,11 @@
+<!-- ═══════════════════════════════════════════════════════════
+     背景设置：想换背景只改这一个地方 👇
+       - src="..."      → 浅色主题时显示的背景
+       - srcset="..."   → 深色主题时显示的背景（可填同一张）
+     背景素材都在 backgrounds/ 文件夹（jsDelivr 加速）
+     ═══════════════════════════════════════════════════════════ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@main/backgrounds/bg-dark-aurora.svg](https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@main/backgrounds/bg-custom.png)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@main/backgrounds/bg-dark-aurora.svg">
   <img src="https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@main/backgrounds/bg-custom.png" width="100%" alt="background">
 </picture>
 
@@ -17,23 +23,22 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/B站-30363D?style=flat-square&logo=bilibili&logoColor=white">
-    <img src="https://img.shields.io/badge/B站-000000?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
-  </picture>
+  <a href="https://space.bilibili.com/472187327">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/B站-30363D?style=flat-square&logo=bilibili&logoColor=white">
+      <img src="https://img.shields.io/badge/B站-000000?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
+    </picture>
+  </a>
 </p>
 
 ---
 
 ### ✨ About Me
-- 数字媒体技术专业准大一...
+
 - 🔭 正在打磨 [dsh-unarchive](https://github.com/uwu9039/dsh-unarchive) —— 恢复归档会话的 DeepSeek Harness 插件
-- 💬 欢迎交流 DSH 插件开发
-- 求求了来点人吧（）
+- 🌱 正在学习 TypeScript 插件开发与 DeepSeek Harness 生态
+- 💬 欢迎交流 DSH 插件开发 / API Key 安全防护
+- ⚡ Fun fact：为了捞回手滑归档的会话，花了几百万 token 之后，干脆写了个插件
 
 ---
 
@@ -45,12 +50,23 @@
 
 ---
 
-### 📈 Stats
+### 📈 Stats（深浅色自动适配 · 国内可直连）
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://stats.justsong.cn/api/github?username=uwu9039&lang=zh-CN&theme=dark">
     <img src="https://stats.justsong.cn/api/github?username=uwu9039&lang=zh-CN" alt="GitHub Stats" />
+  </picture>
+</p>
+
+---
+
+### 🐍 活跃度（每天自动更新）
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uwu9039/uwu9039/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/uwu9039/uwu9039/output/snake.svg" width="100%" alt="snake" />
   </picture>
 </p>
 
@@ -62,4 +78,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=uwu9039.uwu9039" alt="visitors" />
 </p>
 
-<p align="center">真的感谢你的来访口牙...</p>
+<p align="center">🌟 感谢你的来访</p>
