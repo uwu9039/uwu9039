@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://space.bilibili.com/472187327">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/B站-30363D?style=flat-square&logo=bilibili&logoColor=white">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bilibili-30363D?style=flat-square&logo=bilibili&logoColor=white">
       <img src="https://img.shields.io/badge/B站-000000?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
     </picture>
   </a>
