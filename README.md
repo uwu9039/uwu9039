@@ -11,8 +11,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=19&duration=3200&pause=600&color=e6edf3&center=true&vCenter=true&width=480&lines=Code+is+poetry.;Less+is+more.;Keep+it+simple.">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=19&duration=3200&pause=600&color=111111&center=true&vCenter=true&width=480&lines=Code+is+poetry.;Less+is+more.;Keep+it+simple." alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=19&duration=3200&pause=600&color=e6edf3&center=true&vCenter=true&width=480&lines=Code+is+poetry.;Less+is+more.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=19&duration=3200&pause=600&color=111111&center=true&vCenter=true&width=480&lines=Code+is+poetry.;Less+is+more." alt="Typing SVG" />
   </picture>
 </p>
 
@@ -29,7 +29,7 @@
 
 ### ✨ About Me
 
-- 中传数字媒体技术 准大一
+- 中传数字媒体技术 大一
 - 🔭 正在打磨 [dsh-unarchive](https://github.com/uwu9039/dsh-unarchive) —— 恢复归档会话的 DeepSeek Harness 插件
 - 💬 欢迎交流 DSH 插件开发
 - 求求了来点人吧（）
