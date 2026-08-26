@@ -45,11 +45,12 @@
 ---
 
 ### 📈 Stats
-[![npm downloads](https://img.shields.io/npm/dm/dsh-unarchive)](https://www.npmjs.com/package/dsh-unarchive)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://stats.justsong.cn/api/github?username=uwu9039&lang=zh-CN&theme=dark">
     <img src="https://stats.justsong.cn/api/github?username=uwu9039&lang=zh-CN" alt="GitHub Stats" />
+    [![npm downloads](https://img.shields.io/npm/dm/dsh-unarchive)](https://www.npmjs.com/package/dsh-unarchive)
   </picture>
 </p>
 
