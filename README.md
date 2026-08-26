@@ -11,7 +11,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=19&duration=3200&pause=600&color=e6edf3&center=true&vCenter=true&width=480&lines=Hello.;uwu9039+welcomes+you.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=19&duration=3200&pause=600&color=e6edf3&center=true&vCenter=true&width=480&lines=Hello.;uwu9039+welcomes+you+to+the+tavern.">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=19&duration=3200&pause=600&color=111111&center=true&vCenter=true&width=480&lines=Code+is+poetry.;Less+is+more." alt="Typing SVG" />
   </picture>
 </p>
