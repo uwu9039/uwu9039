@@ -1,77 +1,54 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@main/backgrounds/bg-custom.png">
-  <img src="https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@main/backgrounds/bg-custom.png" width="100%" alt="background">
+  <img src="https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@main/backgrounds/bg-custom.png" width="100%" alt="uwu9039 banner">
 </picture>
 
-<p align="center">
-  <img width="90" src="https://github.com/uwu9039.png" alt="avatar" />
-</p>
+<br />
 
-<h1 align="center">Hi 👋, I'm uwu9039</h1>
+### uwu9039
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=19&duration=3200&pause=600&color=e6edf3&center=true&vCenter=true&width=480&lines=Hello.;uwu9039+welcomes+you+to+the+tavern.">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=19&duration=3200&pause=600&color=111111&center=true&vCenter=true&width=480&lines=Code+is+poetry.;Less+is+more." alt="Typing SVG" />
-  </picture>
-</p>
+中传数字媒体技术大一。平时写点顺手解决痛点的小插件，偶尔放任 AI 造点离谱但意外好玩的小玩具。
 
-<p align="center">
-  <a href="https://space.bilibili.com/472187327">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bilibili-30363D?style=flat-square&logo=bilibili&logoColor=white">
-      <img src="https://img.shields.io/badge/B站-000000?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili" />
-    </picture>
-  </a>
-</p>
+[B站主页](https://space.bilibili.com/472187327) · [把我的主页变成像素 RPG 小镇](https://uwu9039.github.io/repotown/?repo=uwu9039/uwu9039) · 欢迎交流 DSH 插件开发
 
 ---
 
-### ✨ About Me
+#### 做过的一些东西
 
-- 中传数字媒体技术 大一
-- 🔭 正在打磨 [dsh-unarchive](https://github.com/uwu9039/dsh-unarchive) —— 恢复归档会话的 DeepSeek Harness 插件
-- 💬 欢迎交流 DSH 插件开发
-- 求求了来点人吧（）
+| 项目 | 简介 | 语言 / 形态 |
+| :--- | :--- | :--- |
+| **[repotown](https://github.com/uwu9039/repotown)** · [在线试玩](https://uwu9039.github.io/repotown/) | 把任意 GitHub 仓库或 Markdown 变成可逛的 2D 像素 RPG 小镇（全 AI 实验项目，椅子可以坐） | `Canvas` `JS` |
+| **[dsh-unarchive](https://github.com/uwu9039/dsh-unarchive)** · [npm](https://www.npmjs.com/package/dsh-unarchive) | DeepSeek Harness 归档会话回收站——手滑归档后捞会话捞出来的产物 | `JavaScript` |
+| **[dsh-airbag](https://github.com/uwu9039/dsh-airbag)** · [npm](https://www.npmjs.com/package/dsh-airbag) | 防手滑把 API Key 直接粘贴喂给 AI 的安全气囊插件，支持分级拦截与审计 | `TypeScript` |
+| **[TokenViewerExtension](https://github.com/uwu9039/TokenViewerExtension)** | PowerToys 命令面板里的 DeepSeek Token 消耗监视器 | `C#` |
+| **[GuangYuanTongE](https://github.com/uwu9039/GuangYuanTongE)** · [参赛版](https://github.com/uwu9039/cuc-campus-guide) | 中传校园办事向导（广院通） | `Python` |
 
----
-
-### 🚀 最近在做
-
-- [dsh-unarchive](https://github.com/uwu9039/dsh-unarchive) — 归档会话回收站：列出、预览、恢复被归档的会话（JavaScript）
-- [dsh-airbag](https://github.com/uwu9039/dsh-airbag) — 再也不会把 API Key 粘贴喂给 AI：可自定义安全等级与措施的安全插件（TypeScript）
-- [TokenViewerExtension](https://github.com/uwu9039/TokenViewerExtension) — PowerToys 命令面板上的 DeepSeek Token 消耗监控（C#）
-
----
-
-### 📈 Stats
-[![npm downloads](https://img.shields.io/npm/dm/dsh-unarchive)](https://www.npmjs.com/package/dsh-unarchive)
-[![npm downloads](https://img.shields.io/npm/dm/dsh-airbag)](https://www.npmjs.com/package/dsh-airbag)
+<details>
+<summary>顺手看眼数据（npm 下载 &amp; GitHub 统计）</summary>
+<br />
+<p align="center">
+  <a href="https://www.npmjs.com/package/dsh-unarchive"><img src="https://img.shields.io/npm/dm/dsh-unarchive?style=flat-square&label=dsh-unarchive" alt="dsh-unarchive npm downloads" /></a>
+  <a href="https://www.npmjs.com/package/dsh-airbag"><img src="https://img.shields.io/npm/dm/dsh-airbag?style=flat-square&label=dsh-airbag" alt="dsh-airbag npm downloads" /></a>
+</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://stats.justsong.cn/api/github?username=uwu9039&lang=zh-CN&theme=dark">
     <img src="https://stats.justsong.cn/api/github?username=uwu9039&lang=zh-CN" alt="GitHub Stats" />
   </picture>
 </p>
+</details>
 
 ---
-
-### 🐍 活跃度
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@output/snake-dark.svg">
-    <img src="https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@output/snake.svg" width="100%" alt="snake" />
+    <img src="https://cdn.jsdelivr.net/gh/uwu9039/uwu9039@output/snake.svg" width="100%" alt="contribution snake">
   </picture>
 </p>
 
----
-
-### 👀 访客统计
-
 <p align="center">
-  <!-- 换主题：改 theme= 参数（moebooru/asoul/bilibili/capoo/gelbooru/rule34/snow），计数不丢 -->
-  <img src="https://count.getloli.com/get/@uwu9039?theme=capoo" alt="Moe Counter" />
+  <img src="https://count.getloli.com/get/@uwu9039?theme=capoo" alt="visitor counter" />
 </p>
 
-<p align="center">真诚地谢谢你的来访口牙！</p>
+<p align="center"><sub>求求了来点人吧（） · 真诚地谢谢你的来访口牙！</sub></p>
